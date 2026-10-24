@@ -1,0 +1,5 @@
+configuration,NDCG@5,MRR
+Baseline rank:ndcg,0.9277167166744449,1.0
+rank:pairwise,0.9277167166744449,1.0
+max_depth=6,0.9277167166744449,1.0
+n_estimators=200,0.9277167166744449,1.0

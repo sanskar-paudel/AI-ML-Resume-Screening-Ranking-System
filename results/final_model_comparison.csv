@@ -1,0 +1,5 @@
+method,ndcg_at_5
+Keyword Overlap,0.9109266231328256
+TF-IDF,0.9036222888992598
+Sentence Transformer,0.9518111444496299
+XGBoost Ranker,0.9277167166744449

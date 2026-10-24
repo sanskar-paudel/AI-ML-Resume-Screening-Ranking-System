@@ -1,0 +1,11 @@
+rank,candidate_id,score,skill_match,experience_match,education_match,matched_skills,missing_skills
+1,C007,1.4527779,0.625,1.0,0.5,"python, machine learning, deep learning, sql, tensorflow","data analysis, pandas, numpy"
+2,C003,1.3814707,0.75,1.0,0.25,"python, machine learning, sql, data analysis, pandas, numpy","deep learning, tensorflow"
+3,C001,0.8012573,0.875,1.0,0.5,"python, machine learning, sql, data analysis, pandas, numpy, tensorflow",deep learning
+4,C009,-0.1785565,0.75,1.0,0.0,"python, machine learning, sql, data analysis, pandas, numpy","deep learning, tensorflow"
+5,C005,-0.58742964,0.375,1.0,0.25,"python, sql, pandas","machine learning, deep learning, data analysis, numpy, tensorflow"
+6,C004,-1.310142,0.25,1.0,0.5,"python, sql","machine learning, deep learning, data analysis, pandas, numpy, tensorflow"
+7,C010,-1.3531381,0.25,1.0,0.5,"python, sql","machine learning, deep learning, data analysis, pandas, numpy, tensorflow"
+8,C002,-1.3873259,0.125,1.0,0.5,sql,"python, machine learning, deep learning, data analysis, pandas, numpy, tensorflow"
+9,C006,-1.3873259,0.0,1.0,0.5,,"python, machine learning, deep learning, sql, data analysis, pandas, numpy, tensorflow"
+10,C008,-1.3873259,0.125,1.0,0.25,sql,"python, machine learning, deep learning, data analysis, pandas, numpy, tensorflow"

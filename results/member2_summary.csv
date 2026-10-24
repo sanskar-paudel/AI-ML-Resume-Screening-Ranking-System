@@ -1,0 +1,12 @@
+component,status
+Keyword baseline,Completed
+TF-IDF baseline,Completed
+Sentence Transformer baseline,Completed
+Structured features,Completed
+SBERT + structured features,Completed
+XGBoost Ranker,Completed
+NDCG@5 evaluation,Completed
+MRR evaluation,Completed
+Feature importance,Completed
+Sanity testing,Completed
+Ranking explanations,Completed
